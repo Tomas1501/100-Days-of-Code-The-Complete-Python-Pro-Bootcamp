@@ -1,0 +1,16 @@
+# Środowisko wirtualne
+.venv/
+venv/
+ENV/
+
+# Pliki konfiguracyjne VS Code
+.vscode/
+
+# Pliki cache Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Inne typowe pliki do ignorowania
+*.log
+.DS_Store
